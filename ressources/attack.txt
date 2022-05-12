@@ -1,0 +1,12 @@
+Légende:    ATTACK/TYPE/DÉGAT/CLASSE(PH/SP)
+4;Electrik.90;Electrik.75;Normale.80;Normale.40;Tonnerre;Poing eclair;Souplesse;Vive-attack
+5;Vol.75;Feu.65;Feu.110;Tenebres.80;Lame d'air;Crocs feu;Deflagration;Machouille
+16;Vol.110;Vol.75;Dragon.60;Normale.80;Vent violent;Lame d'air;Ouragan;Belier
+14;Spectre.80;Electrik.90;Psy.90;Combat.120;Ball'Ombre;Tonnerre;Psyko;Exploforce
+2;Dragon.140;Sol.100;Acier.100;Poison.80;Colere;Seisme;Queue de fer;Direct toxic;
+4;Electrik.90;Electrik.75;Normale.80;Normale.40;Tonnerre;Poing eclair;Souplesse;Vive-attack
+5;Vol.75;Feu.65;Feu.110;Tenebres.80;Lame d'air;Crocs feu;Deflagration;Machouille
+16;Vol.110;Vol.75;Dragon.60;Normale.80;Vent violent;Lame d'air;Ouragan;Belier
+14;Spectre.80;Electrik.90;Psy.90;Combat.120;Ball'Ombre;Tonnerre;Psyko;Exploforce
+2;Dragon.140;Sol.100;Acier.100;Poison.80;Colere;Seisme;Queue de fer;Direct toxic;
+8;Normale.120;Normale.150;Electrik.110;Combat.120;Jugement;Ultralaser;Fatal-foudre;Exploforce
