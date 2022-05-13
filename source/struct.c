@@ -61,7 +61,7 @@ wdw windows(void)
     wind_struct.last = (sfVector2f){420, 250};
     sfVideoMode video_mode = {1080, 720, 64};
     wind_struct.window = sfRenderWindow_create(video_mode,
-    "rpg", sfClose | sfResize,  NULL);
+    "rpg", sfClose,  NULL);
     sfRenderWindow_setFramerateLimit(wind_struct.window, 60);
     wind_struct.msc_cm = sfMusic_createFromFile("ressources/music/fight.ogg");
     wind_struct.music = sfMusic_createFromFile("ressources/music/song.ogg");
