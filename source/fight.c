@@ -21,21 +21,18 @@ int get_sprite(int z, int x)
 int which_choose(wdw *wind_struct, game *games, dsply **fight)
 {
     int x = event2(wind_struct, fight, 1, 3);
-    switch (x) {
-    case 71:
-        return -1;
-    case 72:
-        return 1;
-    case 73:
+    if (x == wind_struct->key_up1)
         return -2;
-    case 74:
+    else if (x == wind_struct->key_right1)
+        return 1;
+    else if (x == wind_struct->key_down1)
         return 2;
-    case 58:
+    else if (x == wind_struct->key_left1)
+        return -1;
+    else if (x == 58)
         return 5;
-    default:
-        break;
-    }
-    return LOOP;
+    else
+        return LOOP;
 }
 
 void display_fight(wdw * wind_struct, dsply **fight, dsply **poke, int z)
