@@ -8,8 +8,8 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Preview](#Preview)
 - [Featurs](#Featurs)
+- [Preview](#Preview)
 
 ## Installation
 
@@ -20,6 +20,18 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 ## Usage
 
 ./my_rpg -h will display help
+
+## Featurs
+
+- Inventory
+- 1 Quests
+- Menu to manage your pokemons
+- Load/Save up to 11 games
+- 5 Pokemons with there own stats/attacks and amelioration
+- 5 Buildings (Shop, Pharmacy, Arena, Boss, Home)
+- 2 type of area (Map, Tunnel)
+- 3 type of Png (Trainer, Wild, Boss)
+- ...
 
 ## Preview
 
@@ -33,7 +45,8 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 
 ### Pokemons
 
-<u>Fantominus</u>
+Fantominus
+---------------
 <p align="center">
     <br/>
   <img src="./img/fantominus.png" />
@@ -41,7 +54,8 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
   <br/>
 </p>
 
-<u>Roucarnage</u>
+Roucarnage
+---------------
 <p align="center">
     <br/>
   <img src="./img/roucarnage.png" />
@@ -51,7 +65,8 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 
 ### Buildings
 
-<u>Home</u>
+Home
+---------------
 <p align="center">
     <br/>
   <img src="./img/building1.png" />
@@ -59,7 +74,8 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
   <br/>
 </p>
 
-<u>Shop</u>
+Shop
+---------------
 <p align="center">
     <br/>
   <img src="./img/shop.png" />
@@ -67,7 +83,8 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
   <br/>
 </p>
 
-<u>Pharmacy</u>
+Pharmacy
+---------------
 <p align="center">
     <br/>
   <img src="./img/pharmacy.png" />
@@ -75,7 +92,8 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
   <br/>
 </p>
 
-<u>Arena</u>
+Arena
+---------------
 <p align="center">
     <br/>
   <img src="./img/arena.png" />
@@ -93,7 +111,8 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 
 ### Tunnel / Map
 
-<u>Main map</u>
+Main map
+---------------
 <p align="center">
     <br/>
   <img src="./img/map.png" />
@@ -101,22 +120,11 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
   <br/>
 </p>
 
-<u>Tunnel</u>
+Tunnel
+---------------
 <p align="center">
     <br/>
-  <img src="./img/tunnel.png" />
+  <img src="./img/tunnel.png" width="300"/>
   <br/>
   <br/>
 </p>
-
-## Featurs
-
-- Inventory
-- 1 Quests
-- Menu to manage your pokemons
-- Load/Save up to 11 games
-- 5 Pokemons with there own stats/attacks and amelioration
-- 5 Buildings (Shop, Pharmacy, Arena, Boss, Home)
-- 2 type of area (Map, Tunnel)
-- 3 type of Png (Trainer, Wild, Boss)
-- ...
