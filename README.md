@@ -40,7 +40,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 - Main menu
 <p align="center">
     <br/>
-  <img src="./img/menu.png" />
+  <img src="./img/menu.png" width="750"/>
   <br/>
   <br/>
 </p>
@@ -52,7 +52,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 
 <p align="center">
     <br/>
-  <img src="./img/fantominus.png" />
+  <img src="./img/fantominus.png" width="750"/>
   <br/>
   <br/>
 </p>
@@ -61,7 +61,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 
 <p align="center">
     <br/>
-  <img src="./img/roucarnage.png" />
+  <img src="./img/roucarnage.png" width="750"/>
   <br/>
   <br/>
 </p>
@@ -73,7 +73,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 
 <p align="center">
     <br/>
-  <img src="./img/building1.png" />
+  <img src="./img/building1.png" width="750"/>
   <br/>
   <br/>
 </p>
@@ -82,7 +82,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 
 <p align="center">
     <br/>
-  <img src="./img/shop.png" />
+  <img src="./img/shop.png" width="750"/>
   <br/>
   <br/>
 </p>
@@ -91,7 +91,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 
 <p align="center">
     <br/>
-  <img src="./img/pharmacy.png" />
+  <img src="./img/pharmacy.png" width="750"/>
   <br/>
   <br/>
 </p>
@@ -100,7 +100,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 
 <p align="center">
     <br/>
-  <img src="./img/arena.png" />
+  <img src="./img/arena.png" width="750"/>
   <br/>
   <br/>
 </p>
@@ -108,7 +108,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 ### Png
 <p align="center">
     <br/>
-  <img src="./img/gnp.png" />
+  <img src="./img/gnp.png" width="750"/>
   <br/>
   <br/>
 </p>
@@ -119,7 +119,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 - Main map
 <p align="center">
     <br/>
-  <img src="./img/map.png" />
+  <img src="./img/map.png" width="750"/>
   <br/>
   <br/>
 </p>
@@ -128,7 +128,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 
 <p align="center">
     <br/>
-  <img src="./img/tunnel.png" width="800"/>
+  <img src="./img/tunnel.png" width="750"/>
   <br/>
   <br/>
 </p>
