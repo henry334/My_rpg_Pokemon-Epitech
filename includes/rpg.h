@@ -32,7 +32,7 @@
     #define MAIN_GAME 48
     #define ITEM1 0
     #define ITEM2 1
-    #define PERCENTAGEFIGHT 48
+    #define PERCENTAGEFIGHT 48 // higher = less chance
 
 void usage(void);
 int intro(wdw *);
