@@ -53,7 +53,7 @@ Dont forget to star the project if you like it! :star:
 
 <p align="center">
     <br/>
-  <img src="./img/fantominus.png" width="770"/>
+  <img src="./img/fantominus.png" width="765"/>
   <br/>
   <br/>
 </p>
@@ -62,7 +62,7 @@ Dont forget to star the project if you like it! :star:
 
 <p align="center">
     <br/>
-  <img src="./img/roucarnage.png" width="770"/>
+  <img src="./img/roucarnage.png" width="765"/>
   <br/>
   <br/>
 </p>
@@ -74,7 +74,7 @@ Dont forget to star the project if you like it! :star:
 
 <p align="center">
     <br/>
-  <img src="./img/building1.png" width="770"/>
+  <img src="./img/building1.png" width="765"/>
   <br/>
   <br/>
 </p>
@@ -83,7 +83,7 @@ Dont forget to star the project if you like it! :star:
 
 <p align="center">
     <br/>
-  <img src="./img/shop.png" width="770"/>
+  <img src="./img/shop.png" width="765"/>
   <br/>
   <br/>
 </p>
@@ -92,7 +92,7 @@ Dont forget to star the project if you like it! :star:
 
 <p align="center">
     <br/>
-  <img src="./img/pharmacy.png" width="770"/>
+  <img src="./img/pharmacy.png" width="765"/>
   <br/>
   <br/>
 </p>
@@ -101,7 +101,7 @@ Dont forget to star the project if you like it! :star:
 
 <p align="center">
     <br/>
-  <img src="./img/arena.png" width="770"/>
+  <img src="./img/arena.png" width="765"/>
   <br/>
   <br/>
 </p>
@@ -111,7 +111,7 @@ Dont forget to star the project if you like it! :star:
 
 <p align="center">
     <br/>
-  <img src="./img/gnp.png" width="770"/>
+  <img src="./img/gnp.png" width="765"/>
   <br/>
   <br/>
 </p>
@@ -122,7 +122,7 @@ Dont forget to star the project if you like it! :star:
 - Main map
 <p align="center">
     <br/>
-  <img src="./img/map.png" width="770"/>
+  <img src="./img/map.png" width="765"/>
   <br/>
   <br/>
 </p>
@@ -131,7 +131,7 @@ Dont forget to star the project if you like it! :star:
 
 <p align="center">
     <br/>
-  <img src="./img/tunnel.png" width="770"/>
+  <img src="./img/tunnel.png" width="765"/>
   <br/>
   <br/>
 </p>
