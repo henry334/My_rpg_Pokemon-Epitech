@@ -86,7 +86,7 @@ int main(int argv, char **argc)
 {
     time_t t;
     srand((unsigned) time(&t));
-    if (argv > 1 && argc[1][0] == '-' && argc[1][1] == 'h') {
+    if (argv > 1 && (argc[1][0] == '-' && argc[1][1] == 'h')) {
         usage();
         return 0;
     }

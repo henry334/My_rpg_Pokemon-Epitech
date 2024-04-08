@@ -73,7 +73,7 @@ LIB		=	lib/my/my_concate.c \
 			lib/my/my_split.c \
 			lib/my/my_checker.c \
 			lib/my/my_put_nbr.c \
-			source/colision.c \
+			source/collision.c \
 			lib/my/my_putstr.c \
 			lib/my/my_printf.c \
 			lib/my/my_revstr.c \

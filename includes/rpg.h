@@ -32,6 +32,7 @@
     #define MAIN_GAME 48
     #define ITEM1 0
     #define ITEM2 1
+    #define PERCENTAGEFIGHT 48
 
 void usage(void);
 int intro(wdw *);

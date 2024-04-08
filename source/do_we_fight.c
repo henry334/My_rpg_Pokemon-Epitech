@@ -17,7 +17,7 @@ int random_poke(int l)
 int do_we_fight(game *games, wdw *wind_struct)
 {
     int z;
-    int x = rand() % 45;
+    int x = rand() % PERCENTAGEFIGHT;
 
     if (x == 1) {
         games->in_combat = 1;
