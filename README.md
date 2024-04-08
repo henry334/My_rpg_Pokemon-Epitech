@@ -36,6 +36,8 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 ## Preview
 
 ### Menu
+---------------
+- Main menu
 <p align="center">
     <br/>
   <img src="./img/menu.png" />
@@ -44,9 +46,10 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 </p>
 
 ### Pokemons
-
-Fantominus
 ---------------
+
+- Fantominus
+
 <p align="center">
     <br/>
   <img src="./img/fantominus.png" />
@@ -54,8 +57,8 @@ Fantominus
   <br/>
 </p>
 
-Roucarnage
----------------
+- Roucarnage
+
 <p align="center">
     <br/>
   <img src="./img/roucarnage.png" />
@@ -64,9 +67,10 @@ Roucarnage
 </p>
 
 ### Buildings
-
-Home
 ---------------
+
+- Home
+
 <p align="center">
     <br/>
   <img src="./img/building1.png" />
@@ -74,8 +78,8 @@ Home
   <br/>
 </p>
 
-Shop
----------------
+- Shop
+
 <p align="center">
     <br/>
   <img src="./img/shop.png" />
@@ -83,8 +87,8 @@ Shop
   <br/>
 </p>
 
-Pharmacy
----------------
+- Pharmacy
+
 <p align="center">
     <br/>
   <img src="./img/pharmacy.png" />
@@ -92,8 +96,8 @@ Pharmacy
   <br/>
 </p>
 
-Arena
----------------
+- Arena
+
 <p align="center">
     <br/>
   <img src="./img/arena.png" />
@@ -110,9 +114,9 @@ Arena
 </p>
 
 ### Tunnel / Map
-
-Main map
 ---------------
+
+- Main map
 <p align="center">
     <br/>
   <img src="./img/map.png" />
@@ -120,11 +124,11 @@ Main map
   <br/>
 </p>
 
-Tunnel
----------------
+- Tunnel
+
 <p align="center">
     <br/>
-  <img src="./img/tunnel.png" width="300"/>
+  <img src="./img/tunnel.png" width="500"/>
   <br/>
   <br/>
 </p>
