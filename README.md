@@ -23,7 +23,17 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 
 ## Preview
 
+### Menu
+<p align="center">
+    <br/>
+  <img src="./img/menu.png" />
+  <br/>
+  <br/>
+</p>
+
 ### Pokemons
+
+<u>Fantominus</u>
 <p align="center">
     <br/>
   <img src="./img/fantominus.png" />
@@ -31,6 +41,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
   <br/>
 </p>
 
+<u>Roucarnage</u>
 <p align="center">
     <br/>
   <img src="./img/roucarnage.png" />
@@ -39,6 +50,8 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 </p>
 
 ### Buildings
+
+<u>Home</u>
 <p align="center">
     <br/>
   <img src="./img/building1.png" />
@@ -46,6 +59,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
   <br/>
 </p>
 
+<u>Shop</u>
 <p align="center">
     <br/>
   <img src="./img/shop.png" />
@@ -53,6 +67,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
   <br/>
 </p>
 
+<u>Pharmacy</u>
 <p align="center">
     <br/>
   <img src="./img/pharmacy.png" />
@@ -60,6 +75,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
   <br/>
 </p>
 
+<u>Arena</u>
 <p align="center">
     <br/>
   <img src="./img/arena.png" />
@@ -76,6 +92,8 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 </p>
 
 ### Tunnel / Map
+
+<u>Main map</u>
 <p align="center">
     <br/>
   <img src="./img/map.png" />
@@ -83,6 +101,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
   <br/>
 </p>
 
+<u>Tunnel</u>
 <p align="center">
     <br/>
   <img src="./img/tunnel.png" />
@@ -97,7 +116,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 - Menu to manage your pokemons
 - Load/Save up to 11 games
 - 5 Pokemons with there own stats/attacks and amelioration
-- 4 Buildings (Shop, Pharmacy, Arena, Boss)
+- 5 Buildings (Shop, Pharmacy, Arena, Boss, Home)
 - 2 type of area (Map, Tunnel)
 - 3 type of Png (Trainer, Wild, Boss)
 - ...
