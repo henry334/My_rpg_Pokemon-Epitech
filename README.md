@@ -128,7 +128,7 @@ My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](
 
 <p align="center">
     <br/>
-  <img src="./img/tunnel.png"/>
+  <img src="./img/tunnel.png" width="800"/>
   <br/>
   <br/>
 </p>
