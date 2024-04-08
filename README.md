@@ -3,6 +3,7 @@
 ## Introduction
 
 My_rpg Epitech project done by [henry334](https://github.com/henry334) [gredzy](https://github.com/gredzy) [ugeaux](https://github.com/ugeaux) and [bendsp](https://github.com/bendsp)
+
 Dont forget to star the project if you like it! :star:
 
 ## Table of Contents
